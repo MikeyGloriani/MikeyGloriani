@@ -12,6 +12,10 @@ A recent volunteer for a Basketball Program.
 
 ### My plans with programming
 I plan to use programming to develop games for the community to enjoy
+
+### Operating Systems
+	![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!--
 **MikeyGloriani/MikeyGloriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
