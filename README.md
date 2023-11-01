@@ -1,11 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 My name is Mikey Gloriani. 
 
 I am student from Ottawa, Ontario.
 
 I enjoy cooking in my free time.
 
-### Programming Languages I Have Used 💻
+You contact me on Gmail. mikey.gloriani@mths.ca or mikey.gloriani@mstu.ocsb.ca
+
+## Im currently
+Developing my skills as a Computer Engineer
+
+## Programming Languages I Have Used 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### Operating Systems I Worked With 💻
