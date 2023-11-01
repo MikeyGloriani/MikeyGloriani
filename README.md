@@ -16,6 +16,9 @@ Developing my skills as a Computer Engineer
 ## Operating Systems I Worked With 💻
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Visitor Count](https : //profile-counter.glitch.me/MikeyGloriani/count.svg)
+
 <!--
 **MikeyGloriani/MikeyGloriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
