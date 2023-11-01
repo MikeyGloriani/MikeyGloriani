@@ -5,7 +5,7 @@ I am student from Ottawa, Ontario.
 
 I enjoy cooking in my free time.
 
-You contact me on Gmail. mikey.gloriani@mths.ca or mikey.gloriani@mstu.ocsb.ca
+You contact me on Gmail. mikey.gloriani@mths.ca or mikey.gloriani@stu.ocsb.ca
 
 ## Im currently
 Developing my skills as a Computer Engineer
